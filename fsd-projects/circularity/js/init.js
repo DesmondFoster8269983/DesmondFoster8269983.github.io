@@ -122,7 +122,7 @@ game.checkCirclePosition(circles[ 4 ])
             }
 
 
-            // YOUR TODO 6 CODE ENDS HERE //////////////////////////
+            // YOUR TODO 6 CODE ENDS HERE //////////////////////////g
         }
         
         /////////////////////////////////////////////////////////////
