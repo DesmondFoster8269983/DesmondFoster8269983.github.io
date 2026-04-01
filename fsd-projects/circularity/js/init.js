@@ -49,24 +49,13 @@ drawCircle()
 
 
         // TODO 7 : Use a loop to create multiple circles
-for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
 
-
-drawCircle()
-
-drawCircle()
-
-drawCircle()
-
-drawCircle()
-
-drawCircle()
 for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
 
             drawCircle();
 
         }
-        }
+        
 
 
 
@@ -92,7 +81,7 @@ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
                game.checkCirclePosition(circles[i]);
             
         }
-    
+        }
         /* 
         This Function should check the position of a circle that is passed to the 
         Function. If that circle drifts off the screen, this Function should move
